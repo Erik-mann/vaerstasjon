@@ -1,0 +1,13 @@
+{
+  "months": [
+    {
+      "label": "2026-02",
+      "file": "2026-02.json"
+    },
+    {
+      "label": "2026-01",
+      "file": "2026-01.json"
+    }
+  ],
+  "snow": "snow.json"
+}
