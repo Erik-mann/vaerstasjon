@@ -1,0 +1,18 @@
+- Åpne mappa på PC desktoppen
+- Hald nede shift tasten, Høgreklikk inni der ein stad
+- Velg "open GIT bash here"
+
+Skriv følgende komandoer etterfulgt av enter:
+
+git rm -r --cached store arkiv importer manuelt
+git add .gitignore
+git commit -m "Rydd: ignorer lokale mapper"
+git push
+
+Lukk vindauget.
+
+No skal du gjere nett så før, 
+1. Legg inn CSV filene i importer mappa
+2. Evt også legg inn snø data
+3. Dobbeltklikk på "oppdater" fila (den oppdaterer lokalt OG på heimesida di samstundes
+4. Start enten lokalt (visning) eller websida og sjå på været

@@ -1,0 +1,24 @@
+# --- Lokale inn-/ut-mapper (skal ikke på nett) ---
+importer/
+arkiv/
+store/
+manuelt/
+
+# --- Midlertidige filer / OS-støy ---
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Git Bash / editor swapfiler ---
+*.swp
+*.swo
+
+# --- Valgfritt: om du vil skjule batchfiler på nett ---
+# *.bat
